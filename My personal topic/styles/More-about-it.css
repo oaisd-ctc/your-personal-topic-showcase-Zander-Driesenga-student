@@ -1,3 +1,6 @@
 #containing-box {
     width: 270px;
 }
+#images {
+    float: right;
+}
